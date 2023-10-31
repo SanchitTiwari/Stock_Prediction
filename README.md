@@ -1,2 +1,2 @@
 # Stock_Prediction
-Stock Market Prediction Using Machine Learning
+Stock Market Prediction Using Machine Learning Models
